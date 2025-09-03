@@ -1,4 +1,5 @@
-package assignments01;
+package assignments;
+
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;

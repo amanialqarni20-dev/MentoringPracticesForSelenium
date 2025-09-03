@@ -1,4 +1,4 @@
-package assignments01;
+package assignments;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -6,10 +6,11 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class T1Day01 {
     public static void main(String[] args) {
         // TC - 01
-        // Create chrome driver
+
+        // Create Chrome driver
         WebDriver driver = new ChromeDriver();
 
-        // Open google home page: https://www.google.com
+        // Open Google home page
         driver.get("https://www.google.com");
 
         // Get Title on page
