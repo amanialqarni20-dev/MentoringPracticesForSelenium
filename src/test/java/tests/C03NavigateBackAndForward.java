@@ -1,39 +1,29 @@
 package tests;
-
-public class C03NavigateBackAndForward {
-
-    package tests;
-
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-    public class C03TitleValidation {
-
+public class C03NavigateBackAndForward {
+    public static void main(String[] args) throws InterruptedException {
         // TC – 03
-        // Expected Title
-// Set Path of the Chrome driver
-// Launch Chrome browser
-// Open URL of Website
-// Maximize Window
-// Get Title of current Page
-// Validate/Compare Page Title
-// Close Browser
-        public static void main(String[] args) {
-            // Launch Chrome browser
-            WebDriver driver = new ChromeDriver();
+        // Launch Chrome browser
+        WebDriver driver = new ChromeDriver();
 
-            // Open URL of Website
-            driver.navigate().to("https://www.amazon.com");
+        // Open URL of Website
+        driver.navigate().to("https://www.amazon.com/");
 
-            // Maximize Window
-            driver.manage().window().maximize();
+        // Maximize Window
+        driver.manage().window().maximize();
 
-            driver.quit();
+        // Get Title of current Page
+        String actualTitle = driver.getTitle();
+        System.out.println("Page Title: " + actualTitle);
 
-            driver.getTitle();
-            String actualTitle = driver.getTitle();
+        // Validate/Compare Page Title
+        String expectedTitle = "Amazon.com. Spend less. Smile more.";
+        System.out.println(actualTitle.equals(expectedTitle));
 
-        }
+        // Close Browser
+        driver.close();
+        driver.quit();
     }
-
-}
+    }
