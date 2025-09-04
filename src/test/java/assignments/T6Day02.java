@@ -8,7 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-public class T5Day02 {
+public class T6Day02 {
     WebDriver driver;
 
     @BeforeEach

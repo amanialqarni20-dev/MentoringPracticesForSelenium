@@ -11,7 +11,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class Task3 {
+public class T7Day02 {
     WebDriver driver;
 
     @BeforeEach
