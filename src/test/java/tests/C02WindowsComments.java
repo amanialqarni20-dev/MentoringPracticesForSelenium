@@ -15,7 +15,7 @@ public class C02WindowsComments {
         driver.manage().window().maximize();
         driver.manage().window().fullscreen();
         // Thread.sleep(2000);
-
+        String source = driver.getPageSource ();
         driver.navigate().back();
         driver.navigate().forward();
         driver.navigate().refresh();

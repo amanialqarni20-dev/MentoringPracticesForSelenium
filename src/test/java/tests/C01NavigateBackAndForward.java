@@ -12,7 +12,7 @@ public class C01NavigateBackAndForward {
         WebDriver driver =new ChromeDriver();
 
 // Navigate to URL: https://www.w3schools.com/
-        driver.navigate().to("https://www.w3schools.com/");
+        driver.get("https://www.w3schools.com/");
 
 
 // Navigate to URL: https://stackoverflow.com/
