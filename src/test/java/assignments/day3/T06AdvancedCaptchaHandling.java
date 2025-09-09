@@ -1,4 +1,4 @@
-package assignments;
+package assignments.day3;
 
 // Import Selenium classes
 import org.junit.jupiter.api.AfterEach;

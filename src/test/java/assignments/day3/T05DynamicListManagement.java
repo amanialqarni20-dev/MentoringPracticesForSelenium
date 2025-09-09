@@ -1,6 +1,6 @@
-package assignments;
+package assignments.day3;
 
-import com.github.javafaker.Faker;   // 👈 لازم import صح
+import com.github.javafaker.Faker;
 
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
@@ -19,7 +19,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 public class T05DynamicListManagement {
 
     private WebDriver driver;
-    private Faker faker; // 👈 متغير كلاس
+    private Faker faker; //  متغير كلاس
 
     @BeforeEach
     public void setup() {
@@ -27,7 +27,7 @@ public class T05DynamicListManagement {
         options.addArguments("--start-maximized");
         driver = new ChromeDriver(options);
 
-        faker = new Faker(); // 👈 تهيئة
+        faker = new Faker(); //  تهيئة
         driver.get("http://webdriveruniversity.com/To-Do-List/index.html");
     }
 
@@ -41,7 +41,6 @@ public class T05DynamicListManagement {
             inputField.sendKeys(Keys.ENTER);
         }
 
-        // 2. Get all tasks
         List<WebElement> tasks = driver.findElements(By.xpath("//li"));
 
         // 3. Mark every other task as completed (strikethrough)

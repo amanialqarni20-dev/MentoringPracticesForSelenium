@@ -1,4 +1,4 @@
-package assignments;
+package assignments.day3;
 
 /*
 Task: Create a test method that opens a browser with the following configurations:

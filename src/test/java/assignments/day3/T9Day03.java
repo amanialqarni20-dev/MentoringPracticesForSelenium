@@ -1,4 +1,4 @@
-package assignments;
+package assignments.day3;
 
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.BeforeAll;
@@ -27,7 +27,6 @@ public class T9Day03 {
 
     @BeforeAll
     static void setUp() {
-       // مهم: يضبط نسخة ChromeDriver
         driver = new ChromeDriver();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
         driver.manage().window().maximize();
@@ -49,7 +48,6 @@ public class T9Day03 {
         password.sendKeys("admin123");
         loginBtn.click();
 
-        // تحقق أن النص Dashboard موجود في الصفحة بعد تسجيل الدخول
         WebElement dashboardText = driver.findElement(By.xpath("//h6[text()='Dashboard']"));
         assertTrue(dashboardText.isDisplayed(), "Dashboard text was not displayed - Login failed!");
     }
@@ -65,7 +63,6 @@ public class T9Day03 {
         password.sendKeys("admin123");
         loginBtn.click();
 
-        // تحقق أن العنوان الجديد يحتوي على "dashboard"
         String currentUrl = driver.getCurrentUrl();
         assertTrue(currentUrl.contains("dashboard"), "Current URL does not contain 'dashboard' - Login failed!");
     }

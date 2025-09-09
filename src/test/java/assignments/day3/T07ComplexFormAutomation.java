@@ -1,4 +1,4 @@
-package assignments;
+package assignments.day3;
 
 import com.github.javafaker.Faker;
 import org.junit.jupiter.api.*;

@@ -1,4 +1,4 @@
-package assignments.day03;
+package assignments.day3;
 
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.BeforeAll;
@@ -35,7 +35,6 @@ public class T10Day03 {
     void assignmentTest() {
         driver.get(url);
 
-        // 2️⃣ الضغط على "Locators - Find By Playground Test Page"
         WebElement locatorsLink = wait.until(ExpectedConditions.elementToBeClickable(
                 By.xpath("//a[contains(text(),'Locators - Find By Playground Test Page')]")));
         locatorsLink.click();

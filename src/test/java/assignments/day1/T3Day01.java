@@ -1,4 +1,4 @@
-package assignments;
+package assignments.day1;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.Dimension;

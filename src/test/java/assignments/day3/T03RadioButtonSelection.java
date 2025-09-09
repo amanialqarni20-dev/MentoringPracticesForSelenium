@@ -1,4 +1,4 @@
-package assignments;
+package assignments.day3;
 
 /*
 Task: Navigate to "https://demoqa.com/radio-button"
