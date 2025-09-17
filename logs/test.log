@@ -1,0 +1,357 @@
+2025-09-17 14:50:00.873 | INFO  | [main] | assignments.day10.Task1AddRecordsandStoreData | Opened the page
+2025-09-17 15:20:05.854 | INFO  | [main] | assignments.day10.Task1AddRecordsandStoreData | Opened the page
+2025-09-17 15:24:47.569 | INFO  | [main] | assignments.day10.Task1AddRecordsandStoreData | Opened the page
+2025-09-17 15:28:47.876 | INFO  | [main] | utilities.TestBase2 | Chrome browser is initialized...
+2025-09-17 15:28:48.352 | INFO  | [main] | utilities.TestBase2 | claruswaysda web site is opened ....
+2025-09-17 15:28:48.353 | INFO  | [main] | utilities.TestBase2 | Adding 10 records to the site
+2025-09-17 15:28:48.785 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Lou' to element: By.id: nameInput
+2025-09-17 15:28:48.874 | INFO  | [main] | utilities.ActionHelper | Sent keys '35' to element: By.id: ageInput
+2025-09-17 15:28:48.895 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 15:28:49.046 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :3
+2025-09-17 15:28:49.226 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 15:28:49.401 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Cherrie' to element: By.id: nameInput
+2025-09-17 15:28:49.503 | INFO  | [main] | utilities.ActionHelper | Sent keys '44' to element: By.id: ageInput
+2025-09-17 15:28:49.527 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 15:28:49.656 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :3
+2025-09-17 15:28:49.745 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 15:28:49.904 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Sterling' to element: By.id: nameInput
+2025-09-17 15:28:50.016 | INFO  | [main] | utilities.ActionHelper | Sent keys '33' to element: By.id: ageInput
+2025-09-17 15:28:50.044 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 15:28:50.178 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :4
+2025-09-17 15:28:50.290 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 15:28:50.411 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Elvie' to element: By.id: nameInput
+2025-09-17 15:28:50.480 | INFO  | [main] | utilities.ActionHelper | Sent keys '45' to element: By.id: ageInput
+2025-09-17 15:28:50.496 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 15:28:50.575 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :3
+2025-09-17 15:28:50.634 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 15:28:50.728 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Domenic' to element: By.id: nameInput
+2025-09-17 15:28:50.799 | INFO  | [main] | utilities.ActionHelper | Sent keys '22' to element: By.id: ageInput
+2025-09-17 15:28:50.811 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 15:28:50.921 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :4
+2025-09-17 15:28:50.980 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 15:28:51.059 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Bruno' to element: By.id: nameInput
+2025-09-17 15:28:51.145 | INFO  | [main] | utilities.ActionHelper | Sent keys '22' to element: By.id: ageInput
+2025-09-17 15:28:51.160 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 15:28:51.238 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :3
+2025-09-17 15:28:51.295 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 15:28:51.377 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Neal' to element: By.id: nameInput
+2025-09-17 15:28:51.460 | INFO  | [main] | utilities.ActionHelper | Sent keys '36' to element: By.id: ageInput
+2025-09-17 15:28:51.477 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 15:28:51.559 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :3
+2025-09-17 15:28:51.634 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 15:28:51.751 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Kristal' to element: By.id: nameInput
+2025-09-17 15:28:51.820 | INFO  | [main] | utilities.ActionHelper | Sent keys '43' to element: By.id: ageInput
+2025-09-17 15:28:51.840 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 15:28:51.919 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :2
+2025-09-17 15:28:51.986 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 15:28:52.074 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Lindsey' to element: By.id: nameInput
+2025-09-17 15:28:52.197 | INFO  | [main] | utilities.ActionHelper | Sent keys '36' to element: By.id: ageInput
+2025-09-17 15:28:52.224 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 15:28:52.419 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :4
+2025-09-17 15:28:52.605 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 15:28:52.862 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Shirlee' to element: By.id: nameInput
+2025-09-17 15:28:53.026 | INFO  | [main] | utilities.ActionHelper | Sent keys '38' to element: By.id: ageInput
+2025-09-17 15:28:53.054 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 15:28:53.318 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :4
+2025-09-17 15:28:53.447 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 15:28:54.824 | INFO  | [main] | utilities.TestBase2 | Chrome browser is closed ...
+2025-09-17 15:31:20.045 | INFO  | [main] | utilities.TestBase2 | Chrome browser is initialized...
+2025-09-17 15:31:20.536 | INFO  | [main] | utilities.TestBase2 | Web Table page is opened.
+2025-09-17 15:31:30.553 | INFO  | [main] | utilities.TestBase2 | Prices: 
+2025-09-17 15:31:30.556 | INFO  | [main] | utilities.TestBase2 | Calculated Total: 0.0
+2025-09-17 15:31:40.993 | INFO  | [main] | utilities.TestBase2 | Chrome browser is closed ...
+2025-09-17 15:33:03.424 | INFO  | [main] | utilities.TestBase2 | Chrome browser is initialized...
+2025-09-17 15:33:04.091 | INFO  | [main] | utilities.TestBase2 | claruswaysda webTable is opened ....
+2025-09-17 15:33:04.353 | INFO  | [main] | utilities.TestBase2 | Calculated Total Price: $2275.0
+2025-09-17 15:33:04.585 | INFO  | [main] | utilities.TestBase2 | Chrome browser is closed ...
+2025-09-17 15:34:01.738 | INFO  | [main] | utilities.TestBase2 | Chrome browser is initialized...
+2025-09-17 15:34:02.379 | INFO  | [main] | utilities.TestBase2 | claruswaysda web site is opened ....
+2025-09-17 15:34:02.379 | INFO  | [main] | utilities.TestBase2 | Adding 10 records to the site
+2025-09-17 15:34:02.800 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Ernestina' to element: By.id: nameInput
+2025-09-17 15:34:02.876 | INFO  | [main] | utilities.ActionHelper | Sent keys '31' to element: By.id: ageInput
+2025-09-17 15:34:02.907 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 15:34:03.048 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :2
+2025-09-17 15:34:03.178 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 15:34:03.314 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Vance' to element: By.id: nameInput
+2025-09-17 15:34:03.394 | INFO  | [main] | utilities.ActionHelper | Sent keys '31' to element: By.id: ageInput
+2025-09-17 15:34:03.416 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 15:34:03.486 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :2
+2025-09-17 15:34:03.546 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 15:34:03.675 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Allen' to element: By.id: nameInput
+2025-09-17 15:34:03.747 | INFO  | [main] | utilities.ActionHelper | Sent keys '35' to element: By.id: ageInput
+2025-09-17 15:34:03.763 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 15:34:03.841 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :2
+2025-09-17 15:34:03.897 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 15:34:03.986 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Lavette' to element: By.id: nameInput
+2025-09-17 15:34:04.057 | INFO  | [main] | utilities.ActionHelper | Sent keys '43' to element: By.id: ageInput
+2025-09-17 15:34:04.073 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 15:34:04.145 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :4
+2025-09-17 15:34:04.195 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 15:34:04.285 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Christian' to element: By.id: nameInput
+2025-09-17 15:34:04.348 | INFO  | [main] | utilities.ActionHelper | Sent keys '19' to element: By.id: ageInput
+2025-09-17 15:34:04.359 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 15:34:04.437 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :3
+2025-09-17 15:34:04.496 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 15:34:04.578 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Sheri' to element: By.id: nameInput
+2025-09-17 15:34:04.648 | INFO  | [main] | utilities.ActionHelper | Sent keys '39' to element: By.id: ageInput
+2025-09-17 15:34:04.665 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 15:34:04.744 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :3
+2025-09-17 15:34:04.798 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 15:34:04.878 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Jamel' to element: By.id: nameInput
+2025-09-17 15:34:04.951 | INFO  | [main] | utilities.ActionHelper | Sent keys '28' to element: By.id: ageInput
+2025-09-17 15:34:04.964 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 15:34:05.022 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :2
+2025-09-17 15:34:05.072 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 15:34:05.154 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Gary' to element: By.id: nameInput
+2025-09-17 15:34:05.224 | INFO  | [main] | utilities.ActionHelper | Sent keys '39' to element: By.id: ageInput
+2025-09-17 15:34:05.235 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 15:34:05.297 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :3
+2025-09-17 15:34:05.346 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 15:34:05.444 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Sulema' to element: By.id: nameInput
+2025-09-17 15:34:05.515 | INFO  | [main] | utilities.ActionHelper | Sent keys '28' to element: By.id: ageInput
+2025-09-17 15:34:05.527 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 15:34:05.612 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :4
+2025-09-17 15:34:05.684 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 15:34:05.785 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Lyndia' to element: By.id: nameInput
+2025-09-17 15:34:05.848 | INFO  | [main] | utilities.ActionHelper | Sent keys '32' to element: By.id: ageInput
+2025-09-17 15:34:05.863 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 15:34:05.947 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :4
+2025-09-17 15:34:06.009 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 15:34:06.612 | INFO  | [main] | utilities.TestBase2 | Chrome browser is closed ...
+2025-09-17 15:34:28.156 | INFO  | [main] | utilities.TestBase2 | Chrome browser is initialized...
+2025-09-17 15:34:28.660 | INFO  | [main] | utilities.TestBase2 | claruswaysda webTable is opened ....
+2025-09-17 15:34:28.950 | INFO  | [main] | utilities.TestBase2 | Calculated Total Price: $2275.0
+2025-09-17 15:34:29.142 | INFO  | [main] | utilities.TestBase2 | Chrome browser is closed ...
+2025-09-17 15:36:26.257 | INFO  | [main] | utilities.TestBase2 | Chrome browser is initialized...
+2025-09-17 15:36:26.726 | INFO  | [main] | utilities.TestBase2 | Opened webTable page
+2025-09-17 15:36:36.794 | INFO  | [main] | utilities.TestBase2 | Found 0 price cells in Table 2
+2025-09-17 15:36:36.796 | INFO  | [main] | utilities.TestBase2 | Calculated total: 0.0
+2025-09-17 15:36:47.099 | INFO  | [main] | utilities.TestBase2 | Chrome browser is closed ...
+2025-09-17 15:37:22.730 | INFO  | [main] | utilities.TestBase2 | Chrome browser is initialized...
+2025-09-17 15:37:23.242 | INFO  | [main] | utilities.TestBase2 | claruswaysda webTable is opened ....
+2025-09-17 15:37:23.523 | INFO  | [main] | utilities.TestBase2 | Calculated Total Price: $2275.0
+2025-09-17 15:37:23.770 | INFO  | [main] | utilities.TestBase2 | Chrome browser is closed ...
+2025-09-17 15:41:14.135 | INFO  | [main] | utilities.TestBase2 | Chrome browser is initialized...
+2025-09-17 15:41:14.684 | INFO  | [main] | utilities.TestBase2 | WebTable page is opened...
+2025-09-17 15:41:14.948 | INFO  | [main] | utilities.TestBase2 | Prices in Table 2:
+2025-09-17 15:41:14.950 | INFO  | [main] | utilities.TestBase2 | $1000.0
+2025-09-17 15:41:14.950 | INFO  | [main] | utilities.TestBase2 | $150.0
+2025-09-17 15:41:14.950 | INFO  | [main] | utilities.TestBase2 | $20.0
+2025-09-17 15:41:14.950 | INFO  | [main] | utilities.TestBase2 | $800.0
+2025-09-17 15:41:14.951 | INFO  | [main] | utilities.TestBase2 | $200.0
+2025-09-17 15:41:14.951 | INFO  | [main] | utilities.TestBase2 | $5.0
+2025-09-17 15:41:14.951 | INFO  | [main] | utilities.TestBase2 | $100.0
+2025-09-17 15:41:14.951 | INFO  | [main] | utilities.TestBase2 | Calculated Total Price: $2275.0
+2025-09-17 15:41:15.312 | INFO  | [main] | utilities.TestBase2 | Chrome browser is closed ...
+2025-09-17 15:45:21.157 | INFO  | [main] | utilities.TestBase2 | Chrome browser is initialized...
+2025-09-17 15:45:21.619 | INFO  | [main] | utilities.TestBase2 | WebTable page is opened...
+2025-09-17 15:45:21.847 | INFO  | [main] | utilities.TestBase2 | Prices in Table 2:
+2025-09-17 15:45:21.851 | INFO  | [main] | utilities.TestBase2 | $1000.0
+2025-09-17 15:45:21.852 | INFO  | [main] | utilities.TestBase2 | $150.0
+2025-09-17 15:45:21.853 | INFO  | [main] | utilities.TestBase2 | $20.0
+2025-09-17 15:45:21.853 | INFO  | [main] | utilities.TestBase2 | $800.0
+2025-09-17 15:45:21.854 | INFO  | [main] | utilities.TestBase2 | $200.0
+2025-09-17 15:45:21.855 | INFO  | [main] | utilities.TestBase2 | $5.0
+2025-09-17 15:45:21.855 | INFO  | [main] | utilities.TestBase2 | $100.0
+2025-09-17 15:45:21.855 | INFO  | [main] | utilities.TestBase2 | Calculated Total Price: $2275.0
+2025-09-17 15:45:22.289 | INFO  | [main] | utilities.TestBase2 | Chrome browser is closed ...
+2025-09-17 15:47:32.663 | INFO  | [main] | utilities.TestBase2 | Chrome browser is initialized...
+2025-09-17 15:47:33.102 | INFO  | [main] | utilities.TestBase2 | WebTable page is opened...
+2025-09-17 15:47:44.939 | INFO  | [main] | utilities.TestBase2 | Table 1 exported to Excel file: WebTable1.xlsx
+2025-09-17 15:47:52.084 | INFO  | [main] | utilities.TestBase2 | Chrome browser is closed ...
+2025-09-17 16:06:59.939 | INFO  | [main] | utilities.TestBase2 | Chrome browser is initialized...
+2025-09-17 16:07:00.636 | INFO  | [main] | utilities.TestBase2 | Add Record WebTable page is opened...
+2025-09-17 16:07:01.206 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Daryl' to element: By.id: nameInput
+2025-09-17 16:07:01.343 | INFO  | [main] | utilities.ActionHelper | Sent keys '31' to element: By.id: ageInput
+2025-09-17 16:07:01.372 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 16:07:01.625 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 16:07:01.750 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Emerson' to element: By.id: nameInput
+2025-09-17 16:07:01.829 | INFO  | [main] | utilities.ActionHelper | Sent keys '39' to element: By.id: ageInput
+2025-09-17 16:07:01.848 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 16:07:02.014 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 16:07:02.148 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Eleonora' to element: By.id: nameInput
+2025-09-17 16:07:02.254 | INFO  | [main] | utilities.ActionHelper | Sent keys '34' to element: By.id: ageInput
+2025-09-17 16:07:02.271 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 16:07:02.413 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 16:07:02.506 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Nilda' to element: By.id: nameInput
+2025-09-17 16:07:02.566 | INFO  | [main] | utilities.ActionHelper | Sent keys '32' to element: By.id: ageInput
+2025-09-17 16:07:02.580 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 16:07:02.703 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 16:07:02.785 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Quyen' to element: By.id: nameInput
+2025-09-17 16:07:02.849 | INFO  | [main] | utilities.ActionHelper | Sent keys '45' to element: By.id: ageInput
+2025-09-17 16:07:02.862 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 16:07:03.008 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 16:07:03.094 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Esteban' to element: By.id: nameInput
+2025-09-17 16:07:03.185 | INFO  | [main] | utilities.ActionHelper | Sent keys '38' to element: By.id: ageInput
+2025-09-17 16:07:03.202 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 16:07:03.336 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 16:07:03.421 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Logan' to element: By.id: nameInput
+2025-09-17 16:07:03.489 | INFO  | [main] | utilities.ActionHelper | Sent keys '28' to element: By.id: ageInput
+2025-09-17 16:07:03.504 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 16:07:03.643 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 16:07:03.749 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Sidney' to element: By.id: nameInput
+2025-09-17 16:07:03.817 | INFO  | [main] | utilities.ActionHelper | Sent keys '32' to element: By.id: ageInput
+2025-09-17 16:07:03.831 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 16:07:03.968 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 16:07:04.088 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Debroah' to element: By.id: nameInput
+2025-09-17 16:07:04.158 | INFO  | [main] | utilities.ActionHelper | Sent keys '33' to element: By.id: ageInput
+2025-09-17 16:07:04.172 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 16:07:04.363 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 16:07:04.479 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Edwin' to element: By.id: nameInput
+2025-09-17 16:07:04.568 | INFO  | [main] | utilities.ActionHelper | Sent keys '39' to element: By.id: ageInput
+2025-09-17 16:07:04.587 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 16:07:04.756 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 16:07:04.895 | INFO  | [main] | utilities.TestBase2 | The youngest person is: David Lee with age: 27
+2025-09-17 16:07:05.211 | INFO  | [main] | utilities.TestBase2 | Chrome browser is closed ...
+2025-09-17 16:07:35.785 | INFO  | [main] | utilities.TestBase2 | Chrome browser is initialized...
+2025-09-17 16:07:36.318 | INFO  | [main] | utilities.TestBase2 | Add Record WebTable page is opened...
+2025-09-17 16:07:36.729 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Elton' to element: By.id: nameInput
+2025-09-17 16:07:36.813 | INFO  | [main] | utilities.ActionHelper | Sent keys '34' to element: By.id: ageInput
+2025-09-17 16:07:36.835 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 16:07:37.059 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 16:07:37.174 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Michel' to element: By.id: nameInput
+2025-09-17 16:07:37.257 | INFO  | [main] | utilities.ActionHelper | Sent keys '22' to element: By.id: ageInput
+2025-09-17 16:07:37.278 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 16:07:37.435 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 16:07:37.535 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Morton' to element: By.id: nameInput
+2025-09-17 16:07:37.605 | INFO  | [main] | utilities.ActionHelper | Sent keys '23' to element: By.id: ageInput
+2025-09-17 16:07:37.618 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 16:07:37.742 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 16:07:37.856 | INFO  | [main] | utilities.ActionHelper | Sent keys 'America' to element: By.id: nameInput
+2025-09-17 16:07:37.919 | INFO  | [main] | utilities.ActionHelper | Sent keys '42' to element: By.id: ageInput
+2025-09-17 16:07:37.932 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 16:07:38.047 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 16:07:38.126 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Kirstie' to element: By.id: nameInput
+2025-09-17 16:07:38.188 | INFO  | [main] | utilities.ActionHelper | Sent keys '36' to element: By.id: ageInput
+2025-09-17 16:07:38.200 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 16:07:38.322 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 16:07:38.399 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Jere' to element: By.id: nameInput
+2025-09-17 16:07:38.473 | INFO  | [main] | utilities.ActionHelper | Sent keys '31' to element: By.id: ageInput
+2025-09-17 16:07:38.487 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 16:07:38.612 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 16:07:38.700 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Linnie' to element: By.id: nameInput
+2025-09-17 16:07:38.773 | INFO  | [main] | utilities.ActionHelper | Sent keys '24' to element: By.id: ageInput
+2025-09-17 16:07:38.785 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 16:07:38.925 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 16:07:39.006 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Wilton' to element: By.id: nameInput
+2025-09-17 16:07:39.071 | INFO  | [main] | utilities.ActionHelper | Sent keys '20' to element: By.id: ageInput
+2025-09-17 16:07:39.085 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 16:07:39.219 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 16:07:39.327 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Sophie' to element: By.id: nameInput
+2025-09-17 16:07:39.391 | INFO  | [main] | utilities.ActionHelper | Sent keys '35' to element: By.id: ageInput
+2025-09-17 16:07:39.405 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 16:07:39.546 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 16:07:39.629 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Consuela' to element: By.id: nameInput
+2025-09-17 16:07:39.696 | INFO  | [main] | utilities.ActionHelper | Sent keys '33' to element: By.id: ageInput
+2025-09-17 16:07:39.710 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 16:07:39.850 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 16:07:40.083 | INFO  | [main] | utilities.TestBase2 | The youngest person is: Wilton with age: 20
+2025-09-17 16:07:46.226 | INFO  | [main] | utilities.TestBase2 | Chrome browser is closed ...
+2025-09-17 22:29:40.160 | INFO  | [main] | utilities.TestBase2 | Chrome browser is initialized...
+2025-09-17 22:29:40.729 | INFO  | [main] | utilities.TestBase2 | claruswaysda web site is opened ....
+2025-09-17 22:29:40.729 | INFO  | [main] | utilities.TestBase2 | Adding 10 records to the site
+2025-09-17 22:29:41.131 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Bradly' to element: By.id: nameInput
+2025-09-17 22:29:41.196 | INFO  | [main] | utilities.ActionHelper | Sent keys '36' to element: By.id: ageInput
+2025-09-17 22:29:41.214 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 22:29:41.298 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :2
+2025-09-17 22:29:41.374 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 22:29:41.478 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Taneka' to element: By.id: nameInput
+2025-09-17 22:29:41.540 | INFO  | [main] | utilities.ActionHelper | Sent keys '19' to element: By.id: ageInput
+2025-09-17 22:29:41.555 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 22:29:41.630 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :4
+2025-09-17 22:29:41.681 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 22:29:41.782 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Charlotte' to element: By.id: nameInput
+2025-09-17 22:29:41.851 | INFO  | [main] | utilities.ActionHelper | Sent keys '34' to element: By.id: ageInput
+2025-09-17 22:29:41.870 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 22:29:41.948 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :4
+2025-09-17 22:29:41.998 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 22:29:42.070 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Casey' to element: By.id: nameInput
+2025-09-17 22:29:42.126 | INFO  | [main] | utilities.ActionHelper | Sent keys '36' to element: By.id: ageInput
+2025-09-17 22:29:42.138 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 22:29:42.203 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :4
+2025-09-17 22:29:42.251 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 22:29:42.322 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Ozzie' to element: By.id: nameInput
+2025-09-17 22:29:42.379 | INFO  | [main] | utilities.ActionHelper | Sent keys '26' to element: By.id: ageInput
+2025-09-17 22:29:42.393 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 22:29:42.451 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :2
+2025-09-17 22:29:42.498 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 22:29:42.573 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Cassi' to element: By.id: nameInput
+2025-09-17 22:29:42.641 | INFO  | [main] | utilities.ActionHelper | Sent keys '45' to element: By.id: ageInput
+2025-09-17 22:29:42.653 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 22:29:42.706 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :2
+2025-09-17 22:29:42.755 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 22:29:42.826 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Maurice' to element: By.id: nameInput
+2025-09-17 22:29:42.897 | INFO  | [main] | utilities.ActionHelper | Sent keys '32' to element: By.id: ageInput
+2025-09-17 22:29:42.909 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 22:29:42.964 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :2
+2025-09-17 22:29:43.011 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 22:29:43.084 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Leda' to element: By.id: nameInput
+2025-09-17 22:29:43.140 | INFO  | [main] | utilities.ActionHelper | Sent keys '23' to element: By.id: ageInput
+2025-09-17 22:29:43.155 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 22:29:43.224 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :4
+2025-09-17 22:29:43.275 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 22:29:43.353 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Jarvis' to element: By.id: nameInput
+2025-09-17 22:29:43.413 | INFO  | [main] | utilities.ActionHelper | Sent keys '31' to element: By.id: ageInput
+2025-09-17 22:29:43.425 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 22:29:43.491 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :4
+2025-09-17 22:29:43.539 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 22:29:43.606 | INFO  | [main] | utilities.ActionHelper | Sent keys 'William' to element: By.id: nameInput
+2025-09-17 22:29:43.661 | INFO  | [main] | utilities.ActionHelper | Sent keys '27' to element: By.id: ageInput
+2025-09-17 22:29:43.672 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 22:29:43.738 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :3
+2025-09-17 22:29:43.794 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 22:29:59.828 | INFO  | [main] | utilities.TestBase2 | Chrome browser is closed ...
+2025-09-17 22:30:03.582 | INFO  | [main] | utilities.TestBase2 | Chrome browser is initialized...
+2025-09-17 22:30:04.387 | INFO  | [main] | utilities.TestBase2 | claruswaysda web site is opened ....
+2025-09-17 22:30:04.387 | INFO  | [main] | utilities.TestBase2 | Adding 10 records to the site
+2025-09-17 22:30:04.756 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Lanora' to element: By.id: nameInput
+2025-09-17 22:30:04.856 | INFO  | [main] | utilities.ActionHelper | Sent keys '20' to element: By.id: ageInput
+2025-09-17 22:30:04.876 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 22:30:04.971 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :1
+2025-09-17 22:30:05.096 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 22:30:05.282 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Rhiannon' to element: By.id: nameInput
+2025-09-17 22:30:05.356 | INFO  | [main] | utilities.ActionHelper | Sent keys '32' to element: By.id: ageInput
+2025-09-17 22:30:05.372 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 22:30:05.454 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :3
+2025-09-17 22:30:05.524 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 22:30:05.660 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Keisha' to element: By.id: nameInput
+2025-09-17 22:30:05.746 | INFO  | [main] | utilities.ActionHelper | Sent keys '44' to element: By.id: ageInput
+2025-09-17 22:30:05.766 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 22:30:05.841 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :3
+2025-09-17 22:30:05.897 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 22:30:05.978 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Charley' to element: By.id: nameInput
+2025-09-17 22:30:06.059 | INFO  | [main] | utilities.ActionHelper | Sent keys '32' to element: By.id: ageInput
+2025-09-17 22:30:06.075 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 22:30:06.145 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :4
+2025-09-17 22:30:06.207 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 22:30:06.335 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Winona' to element: By.id: nameInput
+2025-09-17 22:30:06.395 | INFO  | [main] | utilities.ActionHelper | Sent keys '29' to element: By.id: ageInput
+2025-09-17 22:30:06.407 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 22:30:06.504 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :4
+2025-09-17 22:30:06.562 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 22:30:06.643 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Refugio' to element: By.id: nameInput
+2025-09-17 22:30:06.719 | INFO  | [main] | utilities.ActionHelper | Sent keys '38' to element: By.id: ageInput
+2025-09-17 22:30:06.738 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 22:30:06.823 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :3
+2025-09-17 22:30:06.877 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 22:30:06.953 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Fredericka' to element: By.id: nameInput
+2025-09-17 22:30:07.032 | INFO  | [main] | utilities.ActionHelper | Sent keys '20' to element: By.id: ageInput
+2025-09-17 22:30:07.044 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 22:30:07.110 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :4
+2025-09-17 22:30:07.167 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 22:30:07.272 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Nannette' to element: By.id: nameInput
+2025-09-17 22:30:07.340 | INFO  | [main] | utilities.ActionHelper | Sent keys '43' to element: By.id: ageInput
+2025-09-17 22:30:07.362 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 22:30:07.461 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :2
+2025-09-17 22:30:07.522 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 22:30:07.598 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Kelly' to element: By.id: nameInput
+2025-09-17 22:30:07.658 | INFO  | [main] | utilities.ActionHelper | Sent keys '33' to element: By.id: ageInput
+2025-09-17 22:30:07.675 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 22:30:07.782 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :3
+2025-09-17 22:30:07.846 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 22:30:07.950 | INFO  | [main] | utilities.ActionHelper | Sent keys 'James' to element: By.id: nameInput
+2025-09-17 22:30:08.037 | INFO  | [main] | utilities.ActionHelper | Sent keys '23' to element: By.id: ageInput
+2025-09-17 22:30:08.052 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 22:30:08.131 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :4
+2025-09-17 22:30:08.392 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 22:30:09.132 | INFO  | [main] | utilities.TestBase2 | Chrome browser is closed ...
